@@ -1,5 +1,7 @@
 # Netfllix-Homepage
 
+https://siddarth34.github.io/Netflix_Homepage/
+
 This is the clone of Netflix which i have created using HTML, CSS as the part of my internship program @bharatintern
 
 # 📸 Screenshots
